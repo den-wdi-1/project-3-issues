@@ -29,6 +29,13 @@
 	* Members of Lists of Lists submit issues for Spotify Local Music
 	* Members of Spotify Local Music should submit issues for Election Tracker
 	* Members of Election Tracker should submit issues for Playback
+* Issues 
+	* Review the Technical Requirements for Teams first 
+		* Do you think the team is missing a requirement?
+		* Is there a bug that is directly related to the technical requirements?
+		* Is there a bug that stops some functionality?
+		* Does a styling issue cause you to misunderstand functionality?
+		* Is there a simple extension that the team could make?
 * Review any issues submitted by the consultants
 * In the next day you will be assigned issues to complete by the consultants
 	* Complete any issues assigned to Team as the team sees fit
